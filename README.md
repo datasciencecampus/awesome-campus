@@ -9,16 +9,15 @@ This is for easy access to the relevent repositories and examples
 
 # Table of Contents
 
-- [Awesome Campus](#awesome-campus)
-  - [Tools](#tools)
-    - [green spaces](#green-spaces)
-    - [pygrams](#pygrams)
-    - [optimus](#optimus)
-    - [propeR](#proper)
-    - [readpyne](#readpyne)
-  - [Research](#research)
-    - [tron](#tron)
-    - [access to services](#access-to-services)
+- [Tools](#tools)
+  - [green spaces](#green-spaces)
+  - [pygrams](#pygrams)
+  - [optimus](#optimus)
+  - [propeR](#proper)
+  - [readpyne](#readpyne)
+- [Research](#research)
+  - [tron](#tron)
+  - [access to services](#access-to-services)
 
 ## Tools
 
