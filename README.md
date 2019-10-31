@@ -19,7 +19,6 @@ This is for easy access to the relevent repositories and examples
   - [Research](#research)
     - [tron](#tron)
     - [access to services](#access-to-services)
-- [Table of Contents](#table-of-contents)
 
 ## Tools
 
