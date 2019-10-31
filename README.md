@@ -1,6 +1,6 @@
-# Awesome Campus
-
 <img src="logo.png" style="width:30%;height:auto;">
+
+# Awesome Campus
 
 A repository containing an index of our projects and tools that we have
 published.
