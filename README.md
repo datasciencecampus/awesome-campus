@@ -1,4 +1,4 @@
-# awesomecampus
+# Awesome Campus
 
 <img src="logo.png" style="width:30%;height:auto;">
 
