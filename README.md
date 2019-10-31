@@ -7,7 +7,20 @@ published.
 
 This is for easy access to the relevent repositories and examples
 
-## tools
+## Tools
+
+Collection of tools deployed at various states of readiness. They should be
+installable and usable in one form or another.
+
+### green spaces
+
+The Green Spaces project is a tool that can render GeoJSON polygons over aerial
+imagery and analyse pixels contained within the polygons. Its primary use case
+is to determine the vegetation coverage of residential gardens (defined as
+polygons in GeoJSON) using aerial imagery stored in OSGB36 format tiles,
+although basic support is also present for Web Mercator.
+
+[[link](https://github.com/datasciencecampus/Green_Spaces)]
 
 ### pygrams
 
@@ -37,7 +50,10 @@ Toolkit for extracting relevant lines from receipts or similar Image data.
 
 [[link](https://github.com/datasciencecampus/readpyne)]
 
-## research repos
+## Research
+
+More research focused repos. Often these repos will be the basis for tools
+in the above section.
 
 ### tron
 
