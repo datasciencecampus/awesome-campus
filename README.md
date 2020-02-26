@@ -11,6 +11,7 @@ This is for easy access to the relevent repositories and examples
 
 - [Tools](#tools)
   - [green spaces](#green-spaces)
+  - [deploy-dashboards](#deploy-dashboards)
   - [pygrams](#pygrams)
   - [optimus](#optimus)
   - [propeR](#proper)
