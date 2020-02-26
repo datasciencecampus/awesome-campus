@@ -19,10 +19,8 @@ This is for easy access to the relevent repositories and examples
   - [tron](#tron)
   - [access to services](#access-to-services)
 
-## Tools
+## Tools & Tutorials
 
-Collection of tools deployed at various states of readiness. They should be
-installable and usable in one form or another.
 
 ### green spaces
 
@@ -33,6 +31,14 @@ polygons in GeoJSON) using aerial imagery stored in OSGB36 format tiles,
 although basic support is also present for Web Mercator.
 
 [[link](https://github.com/datasciencecampus/Green_Spaces)]
+
+## deploy dashboards
+
+This example creates a simple dash application that reads in a locally-stored file
+in data folder and creates a graph from adding and multiplying the numbers in data.csv.
+We then deploy it publically to Google Cloud Platform (GCP).
+
+[[link](https://github.com/datasciencecampus/deploy-dash-with-gcp)]
 
 ### pygrams
 
