@@ -16,6 +16,7 @@ This is for easy access to the relevent repositories and examples
   - [optimus](#optimus)
   - [propeR](#proper)
   - [readpyne](#readpyne)
+  - [mobius](#mobius)
 - [Research](#research)
   - [tron](#tron)
   - [access to services](#access-to-services)
@@ -68,6 +69,13 @@ OTP graph. Please see the sister repository
 Toolkit for extracting relevant lines from receipts or similar Image data.
 
 [[link](https://github.com/datasciencecampus/readpyne)]
+
+### mobius
+
+A python tool for extracting data from the Google Mobility Reports published
+to show how mobility has changed during the COVID-19 pandemic.
+
+[[link](https://github.com/datasciencecampus/mobility-report-data-extractor)]
 
 ## Research
 
